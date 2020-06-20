@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Shunyo Ogawa'
 SITENAME = 'Comet'
-SITEURL = 'https://salamann.github.io/blog/'
+SITEURL = '.'
 
 PATH = 'content'
 
